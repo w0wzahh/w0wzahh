@@ -1,153 +1,123 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d2e,100:7fd4a0&height=120&section=header"/>
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a2416,60:0f3d2e,100:7fd4a0&height=220&section=header&text=EMRE%20KARAASLAN&fontSize=50&fontColor=7fd4a0&fontAlignY=55&animation=twinkling&desc=systems%20%E2%80%A2%20AI%20%E2%80%A2%20everything%20in%20between&descSize=15&descAlignY=75&descColor=a0c8b4"/>
 </div>
+
+<br/>
 
 <div align="center">
 
-```
- ██╗    ██╗ ██████╗ ██╗    ██╗███████╗ █████╗ ██╗  ██╗██╗  ██╗
- ██║    ██║██╔═████╗██║    ██║╚══███╔╝██╔══██╗██║  ██║██║  ██║
- ██║ █╗ ██║██║██╔██║██║ █╗ ██║  ███╔╝ ███████║███████║███████║
- ██║███╗██║████╔╝██║██║███╗██║ ███╔╝  ██╔══██║██╔══██║██╔══██║
- ╚███╔███╔╝╚██████╔╝╚███╔███╔╝███████╗██║  ██║██║  ██║██║  ██║
-  ╚══╝╚══╝  ╚═════╝  ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=3000&pause=800&color=7FD4A0&center=true&vCenter=true&width=600&lines=Programmer+since+age+10+%F0%9F%9A%80;Building+scripts%2C+games+%26+custom+OS;Currently+shipping+an+AI+Productivity+App;Always+deep+in+something+new+%E2%9A%A1)](https://git.io/typing-svg)
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-winterminal.dedyn.io-7fd4a0?style=for-the-badge&labelColor=0d1117)](https://winterminal.dedyn.io)
-[![Email](https://img.shields.io/badge/%F0%9F%93%A7_Email-Contact_Me-7fd4a0?style=for-the-badge&labelColor=0d1117)](mailto:emre.karaaslan@outlook.com.tr)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=500&color=7FD4A0&center=true&vCenter=true&width=700&lines=programmer+since+age+10+%E2%9A%A1;building+AI+%7C+games+%7C+custom+OS+%7C+anything+cool;obsessive+deep-diver+%F0%9F%94%8D;systems+thinker+with+a+thing+for+internals+%F0%9F%A7%A0;currently+shipping+an+AI+productivity+app+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
-<br/>
-
 ---
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0wzahh&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fd4a0&text_color=c9d1d9&layout=compact&langs_count=8"/>
+<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0wzahh&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fd4a0&text_color=a0b4a8&layout=compact&langs_count=8"/>
 
-### `> whoami`
+### `$ whoami`
 
 ```yaml
-name:     Emre Karaaslan
-alias:    w0wzahh
-location: Pécs, Hungary
-started:  age 10
+╭──────────────────────────────────────╮
+│  name      →  Emre Karaaslan        │
+│  alias     →  w0wzahh               │
+│  location  →  Pécs, Hungary         │
+│  started   →  age 10                │
+╰──────────────────────────────────────╯
 
-traits:
-  - On the spectrum ⚡
-  - Systems thinker
-  - Obsessive deep-diver
+╭──────────────────────────────────────╮
+│  ⚡ on the spectrum                  │
+│  🧠 systems thinker                  │
+│  🔍 obsessive deep-diver             │
+╰──────────────────────────────────────╯
 
-currently:
-  building: AI Productivity App
-  learning: [Ruby, C#, Java]
-  exploring: OS internals
+╭──────────────────────────────────────╮
+│  🚀 building  →  AI Productivity App │
+│  📚 learning  →  Ruby · C# · Java   │
+│  🔬 exploring →  OS internals        │
+╰──────────────────────────────────────╯
 ```
 
 <br clear="right"/>
 
 ---
 
-### `> tech_stack --verbose`
+### `$ ls ./stack`
 
-<table>
-<tr>
-<td valign="top" width="33%">
+<div align="center">
 
-**Languages**
+**languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JS-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TS-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-000000?style=flat-square&logo=assemblyscript&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,python,js,ts,lua,asm&theme=dark&perline=8)](https://skillicons.dev)
 
-</td>
-<td valign="top" width="33%">
+**frontend · framework**
 
-**Frontend**
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,electron,webgl&theme=dark&perline=8)](https://skillicons.dev)
 
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+**backend · tools · infra**
 
-</td>
-<td valign="top" width="33%">
-
-**Backend & Tools**
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-</td>
-</tr>
-</table>
+[![Skills](https://skillicons.dev/icons?i=nodejs,mongodb,mysql,supabase,unity,pytorch,docker,git&theme=dark&perline=8)](https://skillicons.dev)
 
 <details>
-<summary><b>🔭 Currently learning...</b></summary>
-<br/>
+<summary><b>📡 currently learning</b></summary>
+<br>
 
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+[![Learning](https://skillicons.dev/icons?i=ruby,cs,java,dotnet&theme=dark&perline=4)](https://skillicons.dev)
 
 </details>
 
+</div>
+
 ---
 
-### `> github_stats`
+### `$ cat ./stats`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=w0wzahh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fd4a0&icon_color=7fd4a0&text_color=c9d1d9&rank_icon=github&include_all_commits=true" height="180"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=w0wzahh&theme=tokyonight&hide_border=true&background=0d1117&ring=7fd4a0&fire=7fd4a0&currStreakLabel=7fd4a0&sideLabels=7fd4a0&dates=c9d1d9" height="180"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=w0wzahh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fd4a0&icon_color=7fd4a0&text_color=a0b4a8&rank_icon=percentile&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://nirzak-streak-stats.vercel.app/?user=w0wzahh&theme=tokyonight&hide_border=true&background=0d1117&ring=7fd4a0&fire=7fd4a0&currStreakLabel=7fd4a0&sideLabels=a0b4a8&dates=a0b4a8"/>
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=w0wzahh&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7fd4a0&line=7fd4a0&point=ffffff&area=true&area_color=7fd4a0)](https://github.com/w0wzahh)
+<img src="https://github-profile-trophy.vercel.app/?username=w0wzahh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
 
 </div>
 
 ---
 
-### `> find_me --all`
+### `$ watch git log --graph`
 
 <div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/definitely_emre)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/iEmri_)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30131529)
-[![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/Wowzers)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake-dark.svg">
+</picture>
 </div>
 
 ---
 
+### `$ find . -name "contact*"`
+
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Portfolio](https://img.shields.io/badge/Portfolio-winterminal.dedyn.io-0d1117?style=for-the-badge&logo=vercel&logoColor=0d1117&labelColor=7fd4a0)](https://winterminal.dedyn.io)
+[![Email](https://img.shields.io/badge/Email-contact%20me-0d1117?style=for-the-badge&logo=microsoftoutlook&logoColor=0d1117&labelColor=7fd4a0)](mailto:emre.karaaslan@outlook.com.tr)
+
+<br/>
+
+[![Instagram](https://img.shields.io/badge/@definitely__emre-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/definitely_emre)
+[![Reddit](https://img.shields.io/badge/iEmri__-FF4500?style=flat-square&logo=Reddit&logoColor=white)](https://reddit.com/user/iEmri_)
+[![Stack Overflow](https://img.shields.io/badge/w0wzahh-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30131529)
+[![Quora](https://img.shields.io/badge/Wowzers-B92B27?style=flat-square&logo=Quora&logoColor=white)](https://quora.com/profile/Wowzers)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=w0wzahh&color=7fd4a0&style=flat-square&label=profile+views)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7fd4a0,50:0f3d2e,100:0d1117&height=80&section=footer"/>
+</div>
 
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:7fd4a0,60:0f3d2e,100:0d1117&height=80&section=footer&reversal=true"/>
 </div>

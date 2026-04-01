@@ -38,11 +38,11 @@
 
 ### 🧑‍💻 &nbsp;About Me
 
-- 🔭 &nbsp;Building an **AI Productivity Suite**
-- 💻 &nbsp;**8+ years** in programming
-- 🧠 &nbsp;Low-level systems & high-level problem solving
-- 📍 &nbsp;Somewhere writing code...
-- ⚡ &nbsp;Coding since before I had a proper desk
+-  &nbsp;Building an **AI Productivity Suite**
+-  &nbsp;**8+ years** in programming
+-  &nbsp;Low-level systems & high-level problem solving
+-  &nbsp;Somewhere writing code...
+-  &nbsp;Coding since before I had a proper desk
 
 </td>
 <td width="50%">
@@ -57,7 +57,7 @@ class Emre:
     motto     = "Ship fast. Break nothing."
     
     def __repr__(self):
-        return "Thanks for visiting! 🔥"
+        return "Thanks for visiting! "
 ```
 
 </td>

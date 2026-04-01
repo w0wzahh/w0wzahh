@@ -18,10 +18,10 @@
 
 ```yaml
 ╭──────────────────────────────────────╮
-│  name      →  Emre Karaaslan        │
-│  alias     →  w0wzahh               │
-│  location  →  Pécs, Hungary         │
-│  started   →  age 10                │
+│  name      →  Emre Karaaslan         │
+│  alias     →  w0wzahh                │
+│  location  →  Pécs, Hungary          │
+│  started   →  age 10                 │
 ╰──────────────────────────────────────╯
 
 ╭──────────────────────────────────────╮

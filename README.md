@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Emre Karaaslan, a passionate programmer who's been coding since I was 10. I love building scripts, games, and even my own OS! Currently, I'm diving into Ruby, C#, and Java while working on Waowzars Weird Fly Hub. If you need help with anything related to HTML, CSS, JavaScript, Python, or C/C++, feel free to reach out!<br><br>🔭 Current Project: Waowzars Weird Fly Hub<br>📚 Currently Learning: Ruby, C#, and Java<br>👨‍💻 Check out my projects: wowzerzscripts.netlify.app<br>📫 Contact me: emre.karaaslan@outlook.com.tr<br>⚡ Fun Fact: I am NOT funny lol
+Hey there! I'm Emre Karaaslan, a passionate programmer who's been coding since I was 10. I love building scripts, games, and even my own OS! Currently, I'm diving into Ruby, C#, and Java. If you need help with anything related to HTML, CSS, JavaScript, Python, or C/C++, feel free to reach out!<br><br>🔭 Current Project: AI Productivity App<br>📚 Currently Learning: Ruby, C#, and Java<br>👨‍💻 Check out my projects: https://winterminal.dedyn.io<br>📫 Contact me: emre.karaaslan@outlook.com.tr<br>⚡ Fun Fact: I am on the spectrum
 
 
 ## 🌐 Socials:

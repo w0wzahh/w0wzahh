@@ -25,15 +25,15 @@
 ╰──────────────────────────────────────╯
 
 ╭──────────────────────────────────────╮
-│  ⚡ on the spectrum                  │
-│  🧠 systems thinker                  │
-│  🔍 obsessive deep-diver             │
+│   on the spectrum                    │
+│   systems thinker                    │ 
+│   obsessive deep-diver               │
 ╰──────────────────────────────────────╯
 
 ╭──────────────────────────────────────╮
-│  🚀 building  →  AI Productivity App │
-│  📚 learning  →  Ruby · C# · Java   │
-│  🔬 exploring →  OS internals        │
+│   building  →  AI Productivity App   │
+│   learning  →  Ruby · C# · Java      │
+│   exploring →  OS internals          │
 ╰──────────────────────────────────────╯
 ```
 

@@ -73,8 +73,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=w0wzahh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fd4a0&icon_color=7fd4a0&text_color=a0b4a8&rank_icon=percentile&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://nirzak-streak-stats.vercel.app/?user=w0wzahh&theme=tokyonight&hide_border=true&background=0d1117&ring=7fd4a0&fire=7fd4a0&currStreakLabel=7fd4a0&sideLabels=a0b4a8&dates=a0b4a8"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=w0wzahh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fd4a0&icon_color=7fd4a0&text_color=a0b4a8&rank_icon=percentile&include_all_commits=true&count_private=true&cache_seconds=3600"/>
+<img height="165" src="https://streak-stats.demolab.com?user=w0wzahh&theme=tokyonight&hide_border=true&background=0d1117&ring=7fd4a0&fire=7fd4a0&currStreakLabel=7fd4a0&sideLabels=a0b4a8&dates=a0b4a8"/>
 
 </div>
 

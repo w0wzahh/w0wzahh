@@ -89,10 +89,10 @@ goal: Make thinking faster
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Waowzar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fd4a0&icon_color=7fd4a0&text_color=c9d1d9&rank_icon=github" width="49%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=Waowzar&theme=tokyonight&hide_border=true&background=0d1117&ring=7fd4a0&fire=7fd4a0&currStreakLabel=7fd4a0" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=w0wzahh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fd4a0&icon_color=7fd4a0&text_color=c9d1d9&rank_icon=github" width="49%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=w0wzahh&theme=tokyonight&hide_border=true&background=0d1117&ring=7fd4a0&fire=7fd4a0&currStreakLabel=7fd4a0" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waowzar&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fd4a0&text_color=c9d1d9&layout=compact" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0wzahh&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7fd4a0&text_color=c9d1d9&layout=compact" width="49%" />
 
 </div>
 

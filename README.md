@@ -1,5 +1,7 @@
 <!-- 𝗛𝗘𝗔𝗗𝗘𝗥 -->
+<div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:ff3333&height=220&section=header&text=w0wzahh&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Student%20%7C%208%2B%20Years%20of%20Code&descSize=18&descAlignY=55&descAlign=50"/>
+</div>
 
 <!-- 𝗧𝗬𝗣𝗜𝗡𝗚 𝗦𝗩𝗚 -->
 <div align="center">
@@ -27,14 +29,14 @@
 <br/>
 
 <!-- 𝗗𝗜𝗩𝗜𝗗𝗘𝗥 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
 <!-- 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘 -->
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
+<h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">&nbsp; About Me</h2>
 
-## &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">&nbsp; About Me
+<div align="center">
 
 ```yaml
 name: Emre
@@ -46,29 +48,32 @@ location: Somewhere writing code...
 motto: "Ship fast, break nothing, learn everything."
 ```
 
+</div>
+
+<div align="center">
+
+🔭 Currently building an **AI Productivity Suite** · 💻 **8+ years** deep in programming
 <br/>
+🧠 Love low-level systems & high-level problem solving · ⚡ Coding since before I had a proper desk
+<br/>
+🌐 Portfolio → <a href="https://winterminal.dedyn.io"><b>winterminal.dedyn.io</b></a>
 
-- 🔭 &nbsp; Currently building an **AI Productivity Suite**
-- 💻 &nbsp; **8+ years** deep in the world of programming
-- 🧠 &nbsp; Love low-level systems & high-level problem solving
-- 🌐 &nbsp; Check out my portfolio → [winterminal.dedyn.io](https://winterminal.dedyn.io)
-- ⚡ &nbsp; Fun fact: I've been coding since before I had a proper desk
-
-<br clear="both"/>
+</div>
 
 <br/>
 
 <!-- 𝗗𝗜𝗩𝗜𝗗𝗘𝗥 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
 <!-- 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞 -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;Tech Arsenal
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;Tech Arsenal</h2>
 
 <div align="center">
 
 ### 🗡️ Core Languages
+
 <br/>
 
 <table>
@@ -99,6 +104,7 @@ motto: "Ship fast, break nothing, learn everything."
 <br/>
 
 ### 🛠️ Tools & Technologies
+
 <br/>
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,vim,bash,postgresql,redis,nginx&perline=10" />
@@ -108,12 +114,12 @@ motto: "Ship fast, break nothing, learn everything."
 <br/>
 
 <!-- 𝗗𝗜𝗩𝗜𝗗𝗘𝗥 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
 <!-- 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦 -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &nbsp;GitHub Analytics
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &nbsp;GitHub Analytics</h2>
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=w0wzahh&show_icons=true&count_private=true&hide_border=true&title_color=ff3333&icon_color=ff3333&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
@@ -123,7 +129,7 @@ motto: "Ship fast, break nothing, learn everything."
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=w0wzahh&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=ff3333&fire=ff3333&currStreakLabel=ff3333&sideLabels=ffffff&dates=c9d1d9" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=w0wzahh&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=ff3333&fire=ff3333&currStreakLabel=ff3333&sideLabels=ffffff&dates=c9d1d9" />
 </div>
 
 <br/>
@@ -136,26 +142,26 @@ motto: "Ship fast, break nothing, learn everything."
 <br/>
 
 <!-- 𝗗𝗜𝗩𝗜𝗗𝗘𝗥 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
 <!-- 𝗧𝗥𝗢𝗣𝗛𝗜𝗘𝗦 -->
-## <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/1.gif" width="25"> &nbsp;Achievements
+<h2 align="center">🏆 &nbsp;Achievements</h2>
 
 <div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=w0wzahh&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" />
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=w0wzahh&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" />
 </div>
 
 <br/>
 
 <!-- 𝗗𝗜𝗩𝗜𝗗𝗘𝗥 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
 <!-- 𝗦𝗡𝗔𝗞𝗘 -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="25"> &nbsp;Watch My Contributions Get Eaten
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="25"> &nbsp;Watch My Contributions Get Eaten</h2>
 
 <div align="center">
   <picture>
@@ -165,14 +171,16 @@ motto: "Ship fast, break nothing, learn everything."
   </picture>
 </div>
 
-> 💡 **Tip:** *Set up the [Platane/snk](https://github.com/Platane/snk) GitHub Action in your profile repo to generate the snake animation automatically!*
+<p align="center">
+  💡 <i>Set up the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action in your profile repo to generate the snake animation!</i>
+</p>
 
 <br/>
 
 <!-- 𝗗𝗜𝗩𝗜𝗗𝗘𝗥 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
 <!-- 𝗖𝗢𝗗𝗘 𝗦𝗡𝗜𝗣𝗣𝗘𝗧 -->
 <div align="center">
@@ -199,9 +207,9 @@ me.say_hi()
 <br/>
 
 <!-- 𝗗𝗜𝗩𝗜𝗗𝗘𝗥 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
 <!-- 𝗖𝗢𝗡𝗡𝗘𝗖𝗧 -->
 <div align="center">
@@ -228,7 +236,7 @@ me.say_hi()
 
 </div>
 
-<br/><br/>
+<br/>
 
 <!-- 𝗤𝗨𝗢𝗧𝗘 -->
 <div align="center">
@@ -238,4 +246,6 @@ me.say_hi()
 <br/>
 
 <!-- 𝗙𝗢𝗢𝗧𝗘𝗥 -->
+<div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:ff3333&height=150&section=footer"/>
+</div>

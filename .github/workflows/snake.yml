@@ -3,9 +3,7 @@ name: Generate Contribution Snake
 on:
 schedule:
 - cron: "0 0 * * *"
-
 workflow_dispatch:
-
 push:
 branches:
 - main
@@ -25,10 +23,10 @@ steps:
     with:
       github_user_name: w0wzahh
       outputs: |
-        dist/github-snake.svg?color_snake=ff3333&color_dots=#161b22,#21262d,#30363d,#ff3333,#ff5555
+        dist/github-snake.svg?color_snake=ff3333
         dist/github-snake-dark.svg?palette=github-dark&color_snake=ff3333
 
-  - name: Publish animation
+  - name: Publish snake animation
     uses: crazy-max/ghaction-github-pages@v3.1.0
     with:
       build_dir: dist

@@ -1,190 +1,206 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:ff3333&height=200&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,70:161b22,100:ff3333&height=170&section=header" width="100%"/>
 
-<br/>
+# Emre
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&repeat=true&width=600&height=70&lines=Hey%2C+I'm+Emre+%F0%9F%91%8B" alt="Typing SVG" />
+**Software developer · AI · Systems · Automation**
 
-<br/>
+I build software, experiment with ideas, and spend an unreasonable amount of time
+trying to make things work the way I want them to.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1000&color=8b949e&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Full-Stack+Developer+%C2%B7+Student+%C2%B7+8%2B+Years+of+Code;Building+an+AI+Productivity+Suite+%F0%9F%A7%A0;Low-level+thinker%2C+high-level+builder+%E2%9A%A1" alt="Typing SVG" />
+<br>
 
-<br/><br/>
-
-<!-- SOCIAL BADGES -->
 <a href="https://winterminal.dedyn.io">
-  <img src="https://img.shields.io/badge/Portfolio-ff3333?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>&nbsp;
+  <img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=googlechrome&logoColor=ff3333" />
+</a>
 <a href="mailto:emre.karaaslan@outlook.com.tr">
-  <img src="https://img.shields.io/badge/Email-ff3333?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
-</a>&nbsp;
+  <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=microsoftoutlook&logoColor=ff3333" />
+</a>
+<a href="https://github.com/w0wzahh">
+  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=ff3333" />
+</a>
 <a href="https://instagram.com/definitely_emre">
-  <img src="https://img.shields.io/badge/Instagram-ff3333?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=w0wzahh&style=for-the-badge&color=ff3333&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/badge/Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=ff3333" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=w0wzahh&style=flat-square&color=ff3333&label=profile+views" />
 
 </div>
 
 ---
 
-<br/>
+## About
 
-<!-- ABOUT -->
-<table align="center">
-<tr>
-<td width="50%">
+I'm a developer interested in both sides of software development, from low-level
+code and systems to applications people actually use.
 
-### 🧑‍💻 &nbsp;About Me
+I've been programming for **8+ years**, and these days most of my time goes into
+building tools, experimenting with AI, and working on projects that solve problems
+I actually have.
 
--  &nbsp;Building an **AI Productivity Suite**
--  &nbsp;**8+ years** in programming
--  &nbsp;Low-level systems & high-level problem solving
--  &nbsp;Somewhere writing code...
--  &nbsp;Coding since before I had a proper desk
+Currently working on:
 
-</td>
-<td width="50%">
+* **AI Productivity Suite**
+* Developer tools and automation
+* Full-stack applications
+* Systems and low-level programming
 
-```python
-class Emre:
-    alias     = "w0wzahh"
-    role      = "Full-Stack Dev & Student"
-    exp       = "8+ years"
-    languages = ["Python","C/C++","Ruby","Lua"]
-    building  = "AI Productivity Suite"
-    motto     = "Ship fast. Break nothing."
-    
-    def __repr__(self):
-        return "Thanks for visiting! "
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
+I prefer building things over talking about building things.
 
 ---
 
-<br/>
+## Stack
 
-<!-- TECH STACK -->
-<div align="center">
+### Languages
 
-### ⚔️ &nbsp;Tech Arsenal
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,ruby,lua&theme=dark" />
+</p>
 
-<br/>
+### Tools & Technologies
 
-**Languages I speak fluently**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,vim,bash,postgresql,redis,nginx&theme=dark" />
+</p>
 
-<br/>
+---
 
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,ruby,lua&theme=dark" alt="Languages"/>
+## Projects
+
+Most of my repositories are experiments, utilities, or larger projects that started
+with a simple question: *"Can I make this work?"*
+
+### AI Productivity Suite
+
+A larger project focused on bringing useful AI-powered tools into one place.
+
+**Focus:** AI · automation · productivity · developer tooling
+
+### South Park Downloader
+
+A desktop-oriented downloader project built around a simple interface and automated
+episode handling.
+
+**Focus:** Python · networking · media processing
+
+### Website Tracker
+
+A website analysis and monitoring tool that combines network requests, DNS,
+WHOIS information and other technical checks.
+
+**Focus:** Python · HTTP · DNS · automation
+
+### Other experiments
+
+Games, computer vision, automation scripts, developer utilities and whatever else
+I happen to be interested in at the time.
+
+<a href="https://github.com/w0wzahh?tab=repositories">
+  <img src="https://img.shields.io/badge/View_all_repositories-ff3333?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/><br/>
+---
 
-**Tools that fuel my workflow**
+## GitHub
 
-<br/>
+<div align="center">
 
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,vim,bash,postgresql,redis,nginx&theme=dark" alt="Tools"/>
+<a href="https://github.com/w0wzahh">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=w0wzahh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff3333&icon_color=ff3333&text_color=c9d1d9&include_all_commits=true" />
+</a>
+
+<a href="https://github.com/w0wzahh">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0wzahh&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff3333&text_color=c9d1d9&langs_count=6" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/w0wzahh">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=w0wzahh&hide_border=true&background=0d1117&ring=ff3333&fire=ff3333&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff3333&sideLabels=8b949e&dates=555555" />
 </a>
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
+## Activity
 
-<!-- GITHUB STATS -->
 <div align="center">
 
-### 📊 &nbsp;GitHub Stats
-
-<br/>
-
 <a href="https://github.com/w0wzahh">
-  <img height="180" src="https://github-readme-stats-w0wzahh.vercel.app/api?username=w0wzahh&show_icons=true&count_private=true&hide_border=true&title_color=ff3333&icon_color=ff3333&text_color=c9d1d9&bg_color=0d1117" alt="Stats"/>
-  <img height="180" src="https://github-readme-stats-w0wzahh.vercel.app/api/top-langs/?username=w0wzahh&layout=compact&hide_border=true&title_color=ff3333&text_color=c9d1d9&bg_color=0d1117&langs_count=6" alt="Languages"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/w0wzahh">
-  <img width="65%" src="https://streak-stats.demolab.com/?user=w0wzahh&hide_border=true&background=0d1117&stroke=0d1117&ring=ff3333&fire=ff3333&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff3333&sideLabels=8b949e&dates=555555" alt="Streak"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/w0wzahh">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=w0wzahh&bg_color=0d1117&color=ff3333&line=ff3333&point=ffffff&area_color=ff3333&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=w0wzahh&bg_color=0d1117&color=ff3333&line=ff3333&point=ffffff&area_color=ff3333&area=true&hide_border=true&custom_title=" />
 </a>
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
+## Contribution Snake
 
-<!-- SNAKE -->
 <div align="center">
-
-### 🐍 &nbsp;Contribution Snake
-
-<br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake-dark.svg" width="100%"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake-dark.svg"
+    width="95%"
+    alt="GitHub contribution snake"
+  />
 </picture>
 
-<sub>Set up <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to generate this automatically</sub>
-
 </div>
-
-<br/>
 
 ---
 
-<br/>
+## A few things about how I work
 
-<!-- CONNECT -->
+```text
+Build       →  Test       →  Break it
+   ↑                           ↓
+   └──────── Fix it ←──────────┘
+```
+
+I like understanding how things work rather than treating libraries and frameworks
+as black boxes.
+
+That usually means going a little deeper than necessary, rewriting something that
+already worked, and occasionally learning why that was a bad idea.
+
+---
+
+## Contact
+
 <div align="center">
 
-### 🤝 &nbsp;Let's Connect
+If you want to talk about a project, code, AI, or something you're building,
+you can find me here:
 
-<br/>
+<br>
 
-<a href="https://winterminal.dedyn.io" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=ff3333"/>
-</a>&nbsp;
+<a href="https://winterminal.dedyn.io">
+  <img src="https://img.shields.io/badge/Portfolio-ff3333?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 <a href="mailto:emre.karaaslan@outlook.com.tr">
-  <img src="https://img.shields.io/badge/Outlook-%23000000.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=ff3333"/>
-</a>&nbsp;
-<a href="https://instagram.com/definitely_emre" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=Instagram&logoColor=ff3333"/>
-</a>&nbsp;
-<a href="https://github.com/w0wzahh" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=ff3333"/>
+  <img src="https://img.shields.io/badge/Email-ff3333?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+</a>
+<a href="https://github.com/w0wzahh">
+  <img src="https://img.shields.io/badge/GitHub-ff3333?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+<sub>Built by Emre · Last updated automatically through GitHub</sub>
 
 </div>
 
-<br/>
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:ff3333&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,70:161b22,100:ff3333&height=110&section=footer" width="100%"/>

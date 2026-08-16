@@ -11,10 +11,9 @@ underneath the abstractions.
 
 <br>
 
-[**Portfolio**](https://winterminal.dedyn.io) ·
 [**GitHub**](https://github.com/w0wzahh) ·
 [**Email**](mailto:emre.karaaslan@outlook.com.tr) ·
-[**Instagram**](https://instagram.com/definitely_emre)
+[**Instagram**](https://instagram.com/0xemrieee)
 
 </div>
 
@@ -285,9 +284,6 @@ That's usually enough of a reason.
 
 ## Find me
 
-**Portfolio**
-https://winterminal.dedyn.io
-
 **GitHub**
 https://github.com/w0wzahh
 
@@ -301,7 +297,7 @@ https://github.com/w0wzahh
 ## Elsewhere
 
 **Instagram**
-@definitely_emre
+@0xemrieee
 
 **Repositories**
 github.com/w0wzahh?tab=repositories

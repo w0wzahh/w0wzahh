@@ -4,10 +4,10 @@
 
 # Emre
 
-**Software developer · AI · Systems · Automation**
+**Software Developer · AI · Systems · Automation**
 
-I build software, experiment with ideas, and spend an unreasonable amount of time
-trying to make things work the way I want them to.
+I build software, experiment with ideas, and occasionally spend far too long
+figuring out why something that worked yesterday suddenly doesn't.
 
 <br>
 
@@ -35,11 +35,12 @@ trying to make things work the way I want them to.
 ## About
 
 I'm a developer interested in both sides of software development, from low-level
-code and systems to applications people actually use.
+code and systems to applications that people actually use.
 
-I've been programming for **8+ years**, and these days most of my time goes into
-building tools, experimenting with AI, and working on projects that solve problems
-I actually have.
+I've been programming for **8+ years**, and most of what I build starts with a
+simple question:
+
+> *Can I make this work?*
 
 Currently working on:
 
@@ -71,7 +72,7 @@ I prefer building things over talking about building things.
 ## Projects
 
 Most of my repositories are experiments, utilities, or larger projects that started
-with a simple question: *"Can I make this work?"*
+with a problem I wanted to solve.
 
 ### AI Productivity Suite
 
@@ -81,22 +82,23 @@ A larger project focused on bringing useful AI-powered tools into one place.
 
 ### South Park Downloader
 
-A desktop-oriented downloader project built around a simple interface and automated
-episode handling.
+A downloader project built around a simple interface and automated episode handling.
 
 **Focus:** Python · networking · media processing
 
 ### Website Tracker
 
-A website analysis and monitoring tool that combines network requests, DNS,
+A website analysis and monitoring tool combining HTTP requests, DNS lookups,
 WHOIS information and other technical checks.
 
 **Focus:** Python · HTTP · DNS · automation
 
-### Other experiments
+### Other Projects
 
 Games, computer vision, automation scripts, developer utilities and whatever else
-I happen to be interested in at the time.
+happens to catch my interest.
+
+<br>
 
 <a href="https://github.com/w0wzahh?tab=repositories">
   <img src="https://img.shields.io/badge/View_all_repositories-ff3333?style=for-the-badge&logo=github&logoColor=white" />
@@ -104,35 +106,75 @@ I happen to be interested in at the time.
 
 ---
 
-GitHub
+## GitHub
 
 <div align="center">
 
-<a href="https://github.com/w0wzahh"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=w0wzahh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff3333&icon_color=ff3333&text_color=c9d1d9&rank_icon=github&custom_title=GitHub%20Overview" alt="GitHub statistics" /> </a> <a href="https://github.com/w0wzahh"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0wzahh&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=ff3333&text_color=c9d1d9&card_width=320" alt="Most used languages" /> </a>
+<a href="https://github.com/w0wzahh">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=w0wzahh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff3333&icon_color=ff3333&text_color=c9d1d9&rank_icon=github&custom_title=GitHub%20Overview"
+    alt="GitHub statistics"
+  />
+</a>
+
+<a href="https://github.com/w0wzahh">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0wzahh&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=ff3333&text_color=c9d1d9&card_width=320"
+    alt="Most used languages"
+  />
+</a>
 
 <br><br>
 
-<a href="https://github.com/w0wzahh"> <img width="80%" src="https://streak-stats.demolab.com/?user=w0wzahh&hide_border=true&background=0d1117&ring=ff3333&fire=ff3333&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff3333&sideLabels=8b949e&dates=555555" alt="GitHub contribution streak" /> </a>
+<a href="https://github.com/w0wzahh">
+  <img
+    width="80%"
+    src="https://streak-stats.demolab.com/?user=w0wzahh&hide_border=true&background=0d1117&ring=ff3333&fire=ff3333&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff3333&sideLabels=8b949e&dates=555555"
+    alt="GitHub contribution streak"
+  />
+</a>
 
 </div>
 
 ---
 
-Activity
+## Activity
 
 <div align="center">
 
-<a href="https://github.com/w0wzahh"> <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=w0wzahh&bg_color=0d1117&color=c9d1d9&line=ff3333&point=ff3333&area_color=ff3333&area=true&hide_border=true&custom_title=Recent%20Activity" alt="GitHub activity graph" /> </a>
+<a href="https://github.com/w0wzahh">
+  <img
+    width="94%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=w0wzahh&bg_color=0d1117&color=c9d1d9&line=ff3333&point=ff3333&area_color=ff3333&area=true&hide_border=true&custom_title=Recent%20Activity"
+    alt="GitHub activity graph"
+  />
+</a>
 
 </div>
 
 ---
 
-Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake.svg" /> <img src="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake-dark.svg" width="94%" alt="GitHub contribution snake" /> </picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake-dark.svg"
+    width="94%"
+    alt="GitHub contribution snake"
+  />
+</picture>
 
 <br>
 
@@ -142,19 +184,28 @@ Contribution Snake
 
 ---
 
-## A few things about how I work
+## How I Work
 
 ```text
-Build       →  Test       →  Break it
-   ↑                           ↓
-   └──────── Fix it ←──────────┘
+        Build
+          │
+          ▼
+        Test
+          │
+          ▼
+       Break it
+          │
+          ▼
+        Fix it
+          │
+          └──────────────► Repeat
 ```
 
 I like understanding how things work rather than treating libraries and frameworks
 as black boxes.
 
 That usually means going a little deeper than necessary, rewriting something that
-already worked, and occasionally learning why that was a bad idea.
+already worked, and occasionally discovering why that was a bad idea.
 
 ---
 
@@ -163,9 +214,9 @@ already worked, and occasionally learning why that was a bad idea.
 <div align="center">
 
 If you want to talk about a project, code, AI, or something you're building,
-you can find me here:
+you can find me here.
 
-<br>
+<br><br>
 
 <a href="https://winterminal.dedyn.io">
   <img src="https://img.shields.io/badge/Portfolio-ff3333?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -179,7 +230,7 @@ you can find me here:
 
 <br><br>
 
-<sub>Built by Emre · Last updated automatically through GitHub</sub>
+<sub>Built by Emre</sub>
 
 </div>
 

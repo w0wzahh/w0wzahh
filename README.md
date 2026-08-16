@@ -1,90 +1,62 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,75:161b22,100:ff3333&height=160&section=header" width="100%"/>
+# EMRE
 
-# w0wzahh
+`w0wzahh`
 
-### Software Developer · AI · Systems · Automation
+**Software Developer · AI · Systems · Automation**
 
-I build software, experiment with ideas, and spend a lot of time figuring out how
-things work under the hood.
+I build software, experiment with ideas, and like understanding what is happening
+underneath the abstractions.
 
 <br>
 
-<a href="https://winterminal.dedyn.io">
-<img src="https://img.shields.io/badge/Portfolio-ff3333?style=flat-square&logo=googlechrome&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:emre.karaaslan@outlook.com.tr">
-<img src="https://img.shields.io/badge/Email-ff3333?style=flat-square&logo=microsoftoutlook&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/w0wzahh">
-<img src="https://img.shields.io/badge/GitHub-ff3333?style=flat-square&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://instagram.com/definitely_emre">
-<img src="https://img.shields.io/badge/Instagram-ff3333?style=flat-square&logo=instagram&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=w0wzahh&style=flat-square&color=ff3333&label=profile+views" />
+[**Portfolio**](https://winterminal.dedyn.io) ·
+[**GitHub**](https://github.com/w0wzahh) ·
+[**Email**](mailto:emre.karaaslan@outlook.com.tr) ·
+[**Instagram**](https://instagram.com/definitely_emre)
 
 </div>
 
 ---
 
-## About
-
-I'm a developer who enjoys working across different layers of software.
-
-I've been programming for **8+ years**, with most of my experience coming from
-building projects, experimenting with new technologies, and solving problems
-that interest me.
-
-I'm particularly interested in:
-
-* AI and developer tooling
-* Automation
-* Systems and low-level programming
-* Full-stack development
-* Networking and infrastructure
-* Computer vision
-* Building things from scratch
-
-Currently, I'm working on an **AI Productivity Suite** and several smaller
-projects alongside it.
-
----
-
-## What I'm working with
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="65%" valign="top">
 
-### Languages
+## Profile
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,ruby,lua&theme=dark" />
-</p>
+I've been programming for **8+ years**, working across application development,
+automation, networking, systems, and experimentation.
 
-Python is currently my main language, but I enjoy moving between high-level
-application code and lower-level programming.
+I tend to move between different areas rather than sticking to one particular
+stack. Python is probably the language I reach for most often, but I also enjoy
+working closer to the system with C and C++.
+
+Right now, most of my attention is going toward an **AI Productivity Suite**,
+alongside smaller projects and experiments.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="35%" valign="top">
 
-### Tools
+## Currently
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,vim,bash,postgresql,redis,nginx&theme=dark" />
-</p>
+```text
+building
+  AI Productivity Suite
 
-I use a mixture of Linux tooling, containers, databases, editors and
-developer utilities depending on the project.
+learning
+  systems
+  AI
+  networking
+
+using
+  Python
+  C / C++
+  Ruby
+  Lua
+```
 
 </td>
 </tr>
@@ -92,9 +64,7 @@ developer utilities depending on the project.
 
 ---
 
-## Projects
-
-A few of the things I've been working on.
+## Selected Work
 
 <table>
 <tr>
@@ -102,10 +72,12 @@ A few of the things I've been working on.
 
 ### AI Productivity Suite
 
-A larger project focused on bringing useful AI-powered tools and automation
-into one place.
+An ongoing project built around practical AI tools, automation, and productivity.
 
-**AI · Automation · Productivity · Python**
+The goal is simple: make repetitive work easier without turning the software
+into another complicated platform.
+
+`AI` `Python` `Automation`
 
 </td>
 
@@ -113,10 +85,10 @@ into one place.
 
 ### South Park Downloader
 
-A downloader application focused on making episode discovery and downloading
-simple and automated.
+A downloader project focused on making episode discovery and downloading
+simple and reliable.
 
-**Python · Networking · Media**
+`Python` `Networking` `Media`
 
 </td>
 </tr>
@@ -126,21 +98,79 @@ simple and automated.
 
 ### Website Tracker
 
-A technical website analysis and monitoring tool using HTTP, DNS, WHOIS and
-other network information.
+A technical website analysis tool combining HTTP requests, DNS lookups,
+WHOIS information, and other network checks.
 
-**Python · HTTP · DNS · Networking**
+`Python` `HTTP` `DNS`
 
 </td>
 
 <td width="50%" valign="top">
 
-### Other Experiments
+### Computer Vision & Games
 
-Games, computer vision projects, automation scripts, developer utilities and
-various experiments.
+A collection of experiments involving OpenCV, Pygame, tracking systems,
+game mechanics, and other ideas that seemed worth building.
 
-**Python · OpenCV · Pygame · Systems**
+`Python` `OpenCV` `Pygame`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[**View all repositories →**](https://github.com/w0wzahh?tab=repositories)
+
+</div>
+
+---
+
+## Toolkit
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Languages**
+
+```text
+Python
+C
+C++
+Ruby
+Lua
+```
+
+</td>
+
+<td valign="top" width="33%">
+
+**Development**
+
+```text
+Git
+GitHub
+Linux
+Docker
+Bash
+VS Code
+Vim
+```
+
+</td>
+
+<td valign="top" width="33%">
+
+**Infrastructure**
+
+```text
+PostgreSQL
+Redis
+Nginx
+Networking
+Automation
+```
 
 </td>
 </tr>
@@ -150,51 +180,61 @@ various experiments.
 
 <div align="center">
 
-<a href="https://github.com/w0wzahh?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20my%20repositories-ff3333?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,ruby,lua,git,github,linux,docker,bash,vscode,vim,postgresql,redis,nginx&theme=dark" alt="Technology stack" />
 
 </div>
 
 ---
 
-## GitHub
+## How I Build
 
-<div align="center">
+I like working close enough to the problem that I understand what the software
+is actually doing.
 
-<a href="https://github.com/w0wzahh">
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=w0wzahh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff3333&icon_color=ff3333&text_color=c9d1d9&rank_icon=github&custom_title=GitHub%20Overview"
-alt="GitHub Overview" />
-</a>
+```text
+        idea
+          │
+          ▼
+      prototype
+          │
+          ▼
+        test
+          │
+          ▼
+       break it
+          │
+          ▼
+       understand
+          │
+          ▼
+        rebuild
+          │
+          └─────────────── repeat
+```
 
-<a href="https://github.com/w0wzahh">
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0wzahh&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=ff3333&text_color=c9d1d9&card_width=320"
-alt="Most Used Languages" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/w0wzahh">
-<img width="82%"
-src="https://streak-stats.demolab.com/?user=w0wzahh&hide_border=true&background=0d1117&ring=ff3333&fire=ff3333&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff3333&sideLabels=8b949e&dates=555555"
-alt="GitHub Streak" />
-</a>
-
-</div>
+I don't particularly care about using the newest technology just because it is
+new. If something solves the problem well, I'll use it. If it doesn't, I'll
+figure out why.
 
 ---
 
-## Activity
+## GitHub Activity
+
+I removed the statistics cards from this profile deliberately.
+
+They added a lot of visual noise while providing very little useful information.
+Your actual GitHub profile already shows your contribution history, repositories,
+and pinned work.
+
+What belongs here is the activity itself.
 
 <div align="center">
 
-<a href="https://github.com/w0wzahh">
-<img width="94%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=w0wzahh&bg_color=0d1117&color=c9d1d9&line=ff3333&point=ffffff&area_color=ff3333&area=true&hide_border=true&custom_title=Recent%20Activity"
-alt="GitHub Activity Graph" />
-</a>
+<img
+width="96%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=w0wzahh&bg_color=0d1117&color=c9d1d9&line=ff3333&point=ff3333&area_color=ff3333&area=true&hide_border=true&custom_title=Activity"
+alt="GitHub activity graph"
+/>
 
 </div>
 
@@ -215,7 +255,7 @@ alt="GitHub Activity Graph" />
   />
   <img
     src="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake-dark.svg"
-    width="94%"
+    width="96%"
     alt="GitHub contribution snake"
   />
 </picture>
@@ -224,46 +264,63 @@ alt="GitHub Activity Graph" />
 
 ---
 
-## A little more about me
+## Beyond the Code
 
-```text
-Languages       Python · C · C++ · Ruby · Lua
-Interests       AI · Systems · Automation · Networking
-Currently       Building an AI Productivity Suite
-Approach        Understand it → Build it → Break it → Fix it
-```
+I like drawing, games, experimenting with hardware and software, and generally
+taking things apart to see how they work.
 
-I like knowing why something works, not just knowing which function to call.
+Some projects are useful.
 
-That tends to lead me down some unnecessary rabbit holes, but it also makes
-the things I build more interesting.
+Some are experiments.
+
+Some exist because I wanted to know if I could build them.
+
+That's usually enough of a reason.
 
 ---
 
-## Let's talk
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## Find me
+
+**Portfolio**
+https://winterminal.dedyn.io
+
+**GitHub**
+https://github.com/w0wzahh
+
+**Email**
+[emre.karaaslan@outlook.com.tr](mailto:emre.karaaslan@outlook.com.tr)
+
+</td>
+
+<td width="50%" valign="top">
+
+## Elsewhere
+
+**Instagram**
+@definitely_emre
+
+**Repositories**
+github.com/w0wzahh?tab=repositories
+
+**Status**
+Currently building.
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-<a href="https://winterminal.dedyn.io">
-<img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=googlechrome&logoColor=ff3333" />
-</a>
-&nbsp;
-<a href="mailto:emre.karaaslan@outlook.com.tr">
-<img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=microsoftoutlook&logoColor=ff3333" />
-</a>
-&nbsp;
-<a href="https://github.com/w0wzahh">
-<img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=ff3333" />
-</a>
-&nbsp;
-<a href="https://instagram.com/0xemrieee">
-<img src="https://img.shields.io/badge/Instagram-161b111?style=for-the-badge&logo=instagram&logoColor=ff3333" />
-</a>
+<sub>
 
-<br><br>
+`w0wzahh` · built with Markdown · no template required
 
-<sub>Built by w0wzahh</sub>
+</sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,75:161b22,100:ff3333&height=100&section=footer" width="100%"/>

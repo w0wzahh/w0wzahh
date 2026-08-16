@@ -104,59 +104,39 @@ I happen to be interested in at the time.
 
 ---
 
-## GitHub
+GitHub
 
 <div align="center">
 
-<a href="https://github.com/w0wzahh">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=w0wzahh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff3333&icon_color=ff3333&text_color=c9d1d9&include_all_commits=true" />
-</a>
-
-<a href="https://github.com/w0wzahh">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0wzahh&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff3333&text_color=c9d1d9&langs_count=6" />
-</a>
+<a href="https://github.com/w0wzahh"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=w0wzahh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff3333&icon_color=ff3333&text_color=c9d1d9&rank_icon=github&custom_title=GitHub%20Overview" alt="GitHub statistics" /> </a> <a href="https://github.com/w0wzahh"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0wzahh&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=ff3333&text_color=c9d1d9&card_width=320" alt="Most used languages" /> </a>
 
 <br><br>
 
-<a href="https://github.com/w0wzahh">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=w0wzahh&hide_border=true&background=0d1117&ring=ff3333&fire=ff3333&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff3333&sideLabels=8b949e&dates=555555" />
-</a>
+<a href="https://github.com/w0wzahh"> <img width="80%" src="https://streak-stats.demolab.com/?user=w0wzahh&hide_border=true&background=0d1117&ring=ff3333&fire=ff3333&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff3333&sideLabels=8b949e&dates=555555" alt="GitHub contribution streak" /> </a>
 
 </div>
 
 ---
 
-## Activity
+Activity
 
 <div align="center">
 
-<a href="https://github.com/w0wzahh">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=w0wzahh&bg_color=0d1117&color=ff3333&line=ff3333&point=ffffff&area_color=ff3333&area=true&hide_border=true&custom_title=" />
-</a>
+<a href="https://github.com/w0wzahh"> <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=w0wzahh&bg_color=0d1117&color=c9d1d9&line=ff3333&point=ff3333&area_color=ff3333&area=true&hide_border=true&custom_title=Recent%20Activity" alt="GitHub activity graph" /> </a>
 
 </div>
 
 ---
 
-## Contribution Snake
+Contribution Snake
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake-dark.svg"
-    width="95%"
-    alt="GitHub contribution snake"
-  />
-</picture>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake.svg" /> <img src="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake-dark.svg" width="94%" alt="GitHub contribution snake" /> </picture>
+
+<br>
+
+<sub>A small visualization of my GitHub activity.</sub>
 
 </div>
 

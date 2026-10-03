@@ -24,7 +24,6 @@
 ```text
 software developer · 8+ years shipping
 python most days · c / c++ when it matters
-currently building an AI productivity suite + a small ecosystem of tools
 ```
 
 I build software, experiment with ideas, and like understanding what's actually

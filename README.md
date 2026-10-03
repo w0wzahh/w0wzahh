@@ -179,12 +179,6 @@ does.
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=w0wzahh&bg_color=0d1117&color=FACC00&line=FACC00&point=ffffff&area_color=FACC00&area=true&hide_border=true&custom_title=CONTRIBUTIONS" alt="activity" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake-dark.svg" width="96%" alt="contribution snake" />
-</picture>
-
 </div>
 
 <br>

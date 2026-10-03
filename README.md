@@ -177,7 +177,7 @@ does.
 
 <div align="center">
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=w0wzahh&bg_color=0d1117&color=FACC00&line=FACC00&point=ffffff&area_color=FACC00&area=true&hide_border=true&custom_title=CONTRIBUTIONS" alt="activity" />
+<img width="96%" src="https://ghchart.rshah.org/FACC00/w0wzahh" alt="contribution calendar" />
 
 </div>
 

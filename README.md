@@ -1,115 +1,114 @@
 <div align="center">
 
-# EMRE
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FACC00&height=210&section=header&text=EMRE&fontSize=110&fontColor=000000&fontAlignY=52&desc=w0wzahh%20%E2%80%94%20software%20developer&descSize=22&descAlignY=78&animation=twinkling" width="100%" alt="header" />
 
-`w0wzahh`
-
-**Software Developer · AI · Systems · Automation**
-
-I build software, experiment with ideas, and like understanding what is happening
-underneath the abstractions.
+<a href="https://w0wzahh.link"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=2800&pause=900&color=FACC00&center=true&vCenter=true&width=720&height=42&lines=building+things+that+live+underneath+the+abstractions;8%2B+years+of+python%2C+c%2C+c%2B%2B%2C+ruby%2C+lua;systems+%C2%B7+automation+%C2%B7+networking;currently+shipping+geochecker" alt="typing" /></a>
 
 <br>
 
-[**GitHub**](https://github.com/w0wzahh) ·
-[**Email**](mailto:emre.karaaslan@outlook.com.tr) ·
-[**Instagram**](https://instagram.com/0xemrieee)
+[![w0wzahh.link](https://img.shields.io/badge/W0WZAHH.LINK-000000?style=for-the-badge&logo=google-chrome&logoColor=FACC00)](https://w0wzahh.link)
+[![GitHub](https://img.shields.io/badge/GITHUB-FACC00?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/w0wzahh)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=maildotru&logoColor=FACC00)](mailto:emre.karaaslan@outlook.com.tr)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FACC00?style=for-the-badge&logo=instagram&logoColor=000000)](https://instagram.com/0xemrieee)
+
+<img src="https://komarev.com/ghpvc/?username=w0wzahh&style=for-the-badge&color=FACC00&label=PROFILE+VIEWS&labelColor=000000" alt="views" />
 
 </div>
 
----
+<br>
 
-<table>
-<tr>
-<td width="65%" valign="top">
+## `▮` THE SHORT VERSION
 
-## Profile
-
-I've been programming for **8+ years**, working across application development,
-automation, networking, systems, and experimentation.
-
-I tend to move between different areas rather than sticking to one particular
-stack. Python is probably the language I reach for most often, but I also enjoy
-working closer to the system with C and C++.
-
-Right now, most of my attention is going toward an **AI Productivity Suite**,
-alongside smaller projects and experiments.
-
-</td>
-
-<td width="35%" valign="top">
-
-## Currently
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FACC00&height=3" width="100%" />
 
 ```text
-building
-  AI Productivity Suite
-
-learning
-  systems
-  AI
-  networking
-
-using
-  Python
-  C / C++
-  Ruby
-  Lua
+software developer · 8+ years shipping
+python most days · c / c++ when it matters
+currently building an AI productivity suite + a small ecosystem of tools
 ```
 
-</td>
-</tr>
-</table>
+I build software, experiment with ideas, and like understanding what's actually
+happening underneath the abstractions. I move between areas rather than
+marrying one stack — if a tool solves the problem well, I'll use it. If it
+doesn't, I'll figure out why.
 
----
+<br>
 
-## Selected Work
+## `▮` LIVE & SHIPPED
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FACC00&height=3" width="100%" />
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### AI Productivity Suite
+### [GeoChecker](https://geochecker.w0wzahh.link)
 
-An ongoing project built around practical AI tools, automation, and productivity.
+Real-time WebRTC IP geolocation & threat intel overlay for video chat
+platforms. 11 OSINT sources, NAT analysis, peer fingerprinting — shipped as a
+licensed product.
 
-The goal is simple: make repetitive work easier without turning the software
-into another complicated platform.
+`Userscript` `WebRTC` `OSINT`
 
-`AI` `Python` `Automation`
+[![live](https://img.shields.io/badge/LIVE-geochecker.w0wzahh.link-FACC00?style=for-the-badge&logoColor=000&labelColor=000)](https://geochecker.w0wzahh.link)
 
 </td>
-
 <td width="50%" valign="top">
 
-### South Park Downloader
+### [SiteRip](https://siterip.w0wzahh.link)
 
-A downloader project focused on making episode discovery and downloading
-simple and reliable.
+Download entire websites — pages, assets, and SPA routes bundled into a
+service-worker-driven zip.
 
-`Python` `Networking` `Media`
+`Tooling` `Networking` `PWA`
+
+[![live](https://img.shields.io/badge/LIVE-siterip.w0wzahh.link-FACC00?style=for-the-badge&logoColor=000&labelColor=000)](https://siterip.w0wzahh.link)
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
 
+### [Brute](https://brute.w0wzahh.link)
+
+A programming language experiment — built from scratch to understand what a
+language actually is underneath the syntax.
+
+`C` `Interpreters` `Compilers`
+
+[![live](https://img.shields.io/badge/LIVE-brute.w0wzahh.link-FACC00?style=for-the-badge&logoColor=000&labelColor=000)](https://brute.w0wzahh.link)
+
+</td>
+<td width="50%" valign="top">
+
+### [w0wzahh.link](https://w0wzahh.link)
+
+The main site — portfolio, projects, and the front door to everything above.
+Neobrutalist. Loud on purpose.
+
+`Next.js` `Design` `Ecosystem`
+
+[![live](https://img.shields.io/badge/LIVE-w0wzahh.link-FACC00?style=for-the-badge&logoColor=000&labelColor=000)](https://w0wzahh.link)
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
 ### Website Tracker
 
-A technical website analysis tool combining HTTP requests, DNS lookups,
-WHOIS information, and other network checks.
+Technical website analysis — HTTP requests, DNS lookups, WHOIS, and network
+checks in one tool.
 
 `Python` `HTTP` `DNS`
 
 </td>
-
 <td width="50%" valign="top">
 
 ### Computer Vision & Games
 
-A collection of experiments involving OpenCV, Pygame, tracking systems,
-game mechanics, and other ideas that seemed worth building.
+OpenCV, Pygame, tracking systems, game mechanics — experiments that seemed
+worth building.
 
 `Python` `OpenCV` `Pygame`
 
@@ -119,204 +118,93 @@ game mechanics, and other ideas that seemed worth building.
 
 <div align="center">
 
-[**View all repositories →**](https://github.com/w0wzahh?tab=repositories)
+[**all repositories →**](https://github.com/w0wzahh?tab=repositories)
 
 </div>
 
----
+<br>
 
-## Toolkit
+## `▮` CURRENTLY
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Languages**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FACC00&height=3" width="100%" />
 
 ```text
-Python
-C
-C++
-Ruby
-Lua
+$ whoami --verbose
+
+building    AI Productivity Suite
+            GeoChecker v5 — licensing + storefront live
+
+learning    systems · AI · networking
+
+stack       python · c/c++ · ruby · lua
+            git · docker · linux · nginx · postgres · redis
 ```
 
-</td>
+<br>
 
-<td valign="top" width="33%">
+## `▮` TOOLKIT
 
-**Development**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FACC00&height=3" width="100%" />
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,ruby,lua,git,github,linux,docker,bash,vscode,vim,postgresql,redis,nginx&theme=dark" alt="stack" />
+
+</div>
+
+<br>
+
+## `▮` HOW I BUILD
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FACC00&height=3" width="100%" />
 
 ```text
-Git
-GitHub
-Linux
-Docker
-Bash
-VS Code
-Vim
+   idea ──▶ prototype ──▶ test ──▶ break it
+      ▲                                │
+      │                                ▼
+      └────────── repeat ◀── understand ◀──┘
 ```
 
-</td>
+I don't reach for the newest tech because it's new. I reach for whatever lets
+me understand what the software is actually doing — then I rebuild until it
+does.
 
-<td valign="top" width="33%">
+<br>
 
-**Infrastructure**
+## `▮` ACTIVITY
 
-```text
-PostgreSQL
-Redis
-Nginx
-Networking
-Automation
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FACC00&height=3" width="100%" />
 
-</td>
-</tr>
-</table>
+<div align="center">
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=w0wzahh&bg_color=0d1117&color=FACC00&line=FACC00&point=ffffff&area_color=FACC00&area=true&hide_border=true&custom_title=CONTRIBUTIONS" alt="activity" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake-dark.svg" width="96%" alt="contribution snake" />
+</picture>
+
+</div>
+
+<br>
+
+## `▮` BEYOND THE CODE
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FACC00&height=3" width="100%" />
+
+Drawing, games, hardware, taking things apart to see how they work.
+
+Some projects are useful. Some are experiments. Some exist because I wanted to
+know if I could build them. That's usually enough of a reason.
 
 <br>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,ruby,lua,git,github,linux,docker,bash,vscode,vim,postgresql,redis,nginx&theme=dark" alt="Technology stack" />
+[![site](https://img.shields.io/badge/W0WZAHH.LINK-FACC00?style=for-the-badge&labelColor=000000&logoColor=000)](https://w0wzahh.link)
+[![email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&labelColor=FACC00&logoColor=000)](mailto:emre.karaaslan@outlook.com.tr)
 
-</div>
-
----
-
-## How I Build
-
-I like working close enough to the problem that I understand what the software
-is actually doing.
-
-```text
-        idea
-          │
-          ▼
-      prototype
-          │
-          ▼
-        test
-          │
-          ▼
-       break it
-          │
-          ▼
-       understand
-          │
-          ▼
-        rebuild
-          │
-          └─────────────── repeat
-```
-
-I don't particularly care about using the newest technology just because it is
-new. If something solves the problem well, I'll use it. If it doesn't, I'll
-figure out why.
-
----
-
-## GitHub Activity
-
-I removed the statistics cards from this profile deliberately.
-
-They added a lot of visual noise while providing very little useful information.
-Your actual GitHub profile already shows your contribution history, repositories,
-and pinned work.
-
-What belongs here is the activity itself.
-
-<div align="center">
-
-<img
-width="96%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=w0wzahh&bg_color=0d1117&color=c9d1d9&line=ff3333&point=ff3333&area_color=ff3333&area=true&hide_border=true&custom_title=Activity"
-alt="GitHub activity graph"
-/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/w0wzahh/w0wzahh/output/github-snake-dark.svg"
-    width="96%"
-    alt="GitHub contribution snake"
-  />
-</picture>
-
-</div>
-
----
-
-## Beyond the Code
-
-I like drawing, games, experimenting with hardware and software, and generally
-taking things apart to see how they work.
-
-Some projects are useful.
-
-Some are experiments.
-
-Some exist because I wanted to know if I could build them.
-
-That's usually enough of a reason.
-
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## Find me
-
-**GitHub**
-https://github.com/w0wzahh
-
-**Email**
-[emre.karaaslan@outlook.com.tr](mailto:emre.karaaslan@outlook.com.tr)
-
-</td>
-
-<td width="50%" valign="top">
-
-## Elsewhere
-
-**Instagram**
-@0xemrieee
-
-**Repositories**
-github.com/w0wzahh?tab=repositories
-
-**Status**
-Currently building.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<sub>
-
-`w0wzahh` · built with Markdown · no template required
-
-</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FACC00&height=80&section=footer&text=currently%20building.&fontSize=20&fontColor=000000&fontAlignY=55" width="100%" alt="footer" />
 
 </div>

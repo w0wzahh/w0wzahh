@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FACC00&height=210&section=header&text=EMRE&fontSize=110&fontColor=000000&fontAlignY=52&desc=w0wzahh%20%E2%80%94%20software%20developer&descSize=22&descAlignY=78&animation=twinkling" width="100%" alt="header" />
 
-<a href="https://w0wzahh.link"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=2800&pause=900&color=FACC00&center=true&vCenter=true&width=720&height=42&lines=building+things+that+live+underneath+the+abstractions;8%2B+years+of+python%2C+c%2C+c%2B%2B%2C+ruby%2C+lua;systems+%C2%B7+automation+%C2%B7+networking;currently+shipping+geochecker" alt="typing" /></a>
+<a href="https://w0wzahh.link"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=2800&pause=900&color=FACC00&center=true&vCenter=true&width=720&height=42&lines=building+underneath+the+abstractions;8%2B+years+of+python%2C+c%2C+c%2B%2B%2C+lua;systems+%C2%B7+automation+%C2%B7+networking;currently+shipping+geochecker" alt="typing" /></a>
 
 <br>
 
